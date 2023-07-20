@@ -1,6 +1,6 @@
-CREATE DATABASE WindowsFunctions;
+CREATE DATABASE WindowFunctions;
 
-USE WindowsFunctions;
+USE WindowFunctions;
 
 SELECT *
 FROM bookings;
